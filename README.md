@@ -1,7 +1,3 @@
-Here’s a GitHub README for your **RAG from Scratch** course repository:
-
----
-
 # RAG from Scratch using LangChain
 
 This repository contains the notebooks used during the **"Learn RAG from Scratch"** course on [freeCodeCamp](https://youtu.be/sVcwVQRHIc8), taught by a LangChain software engineer. In this course, you'll learn how to build a **Retrieval Augmented Generation (RAG)** system, integrating your custom data with the power of Large Language Models (LLMs).
